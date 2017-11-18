@@ -1,0 +1,67 @@
+thrustcopterassets.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: false
+  xy: 2, 75
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+groundGrass
+  rotate: false
+  xy: 2, 2
+  size: 808, 71
+  orig: 808, 71
+  offset: 0, 0
+  index: -1
+planeRed1
+  rotate: false
+  xy: 537, 678
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+planeRed2
+  rotate: false
+  xy: 312, 696
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+planeRed3
+  rotate: false
+  xy: 222, 696
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+rockGrassDown
+  rotate: false
+  xy: 112, 557
+  size: 108, 239
+  orig: 108, 239
+  offset: 0, 0
+  index: -1
+rockGrassUp
+  rotate: false
+  xy: 2, 557
+  size: 108, 239
+  orig: 108, 239
+  offset: 0, 0
+  index: -1
+tap1
+  rotate: false
+  xy: 702, 557
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+tap2
+  rotate: false
+  xy: 627, 678
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
